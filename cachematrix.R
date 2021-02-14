@@ -1,5 +1,5 @@
 ## Following two functions are used to solve a given invertible matrix's inverse, the first function is to cache 
-## the input matrix and the inversed matrix, the second function is to get the cached inversed matrix if it exists, or solve 
+## the input matrix and the inversed matrix, the second function is to get the cached inverse of the input matrix if it exists, or solve 
 ## from the input matrix
 
 ## makeCacheMatrix: create a list to cache input matrix and its inverse
